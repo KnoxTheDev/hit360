@@ -1,0 +1,12 @@
+{
+	"required": true,
+	"package": "dev.knoxy.hit360.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"injectors": {
+		"defaultRequire": 1
+	},
+	"client": [
+		"NoSlowdownMixin"
+	],
+	"refmap": "hit360.refmap.mixins.json"
+}
